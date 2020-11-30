@@ -1,0 +1,2 @@
+# BRTailor
+Tailor admin panel
